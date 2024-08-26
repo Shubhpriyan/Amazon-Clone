@@ -4,6 +4,8 @@
 
 The **Amazon Clone** is a static front-end project that replicates the Amazon homepage. The **aim is to practice and demonstrate web development skills**, focusing on:
 
+### Tech Stack
+
 - **HTML:** Structuring web content.
 - **CSS:** Styling the page to resemble Amazon’s UI.
 
